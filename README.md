@@ -25,3 +25,12 @@
 
 ![image](https://user-images.githubusercontent.com/37560890/159531190-5da9ae17-450c-4a7d-9fc8-a098bfdd6ab9.png)
 
+6. Apply the label encoder Spam -> 1 and Ham ->0
+
+![image](https://user-images.githubusercontent.com/37560890/159531477-5ed06b73-308c-40bd-ad91-717f49a4febf.png)
+
+7. Check for the null values, duplicate values , remove the duplicate values.
+
+![image](https://user-images.githubusercontent.com/37560890/159531787-0a2cdc1b-5fd1-4f98-a735-a9a3d6bd57ab.png)
+
+
