@@ -16,3 +16,12 @@
 
 ![image](https://user-images.githubusercontent.com/37560890/159530705-4cfc0005-cfdd-44d3-910f-03f02102d3e4.png)
 
+
+4. Data information.
+
+![image](https://user-images.githubusercontent.com/37560890/159531065-260f1a95-79d7-456c-b45d-7f3b2e59b166.png)
+
+5. Renaming the columns.
+
+![image](https://user-images.githubusercontent.com/37560890/159531190-5da9ae17-450c-4a7d-9fc8-a098bfdd6ab9.png)
+
