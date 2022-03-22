@@ -49,7 +49,24 @@
 
 ![image](https://user-images.githubusercontent.com/37560890/159533388-41984af9-589c-4847-98f1-05614c37dd4d.png)
 
+4. Descibe our new features.
+
+![image](https://user-images.githubusercontent.com/37560890/159534908-8a425345-a262-417d-9e6d-9963bf80fe99.png)
+
+5. Plot the histogram.
+
+![image](https://user-images.githubusercontent.com/37560890/159535115-4f7f3c23-18ca-4d40-b99e-ece18ec916ee.png)
+
+![image](https://user-images.githubusercontent.com/37560890/159535225-8ddb55ea-115a-4af0-9c11-cafe95c3f686.png)
 
 
+6. Computing the correlations.
+
+![image](https://user-images.githubusercontent.com/37560890/159535422-c7e812d6-9ad8-4ec2-8f53-3dd03c354dd4.png)
+
+
+### [ Step - III ] . Text Preprocessing
+
+1. 
 
 
