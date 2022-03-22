@@ -23,7 +23,7 @@
 
 5. Renaming the columns.
 
-![image](https://user-images.githubusercontent.com/37560890/159531190-5da9ae17-450c-4a7d-9fc8-a098bfdd6ab9.png)
+![image](https://user-images.githubusercontent.com/37560890/159534082-016d5ecb-63e9-4c50-bbff-dcea05c6b963.png)
 
 6. Apply the label encoder Spam -> 1 and Ham ->0
 
