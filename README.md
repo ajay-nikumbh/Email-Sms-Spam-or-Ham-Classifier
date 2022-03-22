@@ -43,6 +43,13 @@
 
 ![image](https://user-images.githubusercontent.com/37560890/159532475-a14c145d-a3da-4c60-8362-e34bf2628e15.png)
 
+![image](https://user-images.githubusercontent.com/37560890/159533231-33331b7e-f695-41a5-833c-cccef878853e.png)
+
+3. Count the number of sentences.
+
+![image](https://user-images.githubusercontent.com/37560890/159533388-41984af9-589c-4847-98f1-05614c37dd4d.png)
+
+
 
 
 
