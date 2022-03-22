@@ -104,4 +104,15 @@
 
 ![image](https://user-images.githubusercontent.com/37560890/159537842-74e3ff28-4736-44a9-8e54-3a3524b1d712.png)
 
+![image](https://user-images.githubusercontent.com/37560890/159538107-9973150c-a944-4579-a00f-75426e263f51.png)
+
+### [ Step - IV ] . Model Building
+
+1. Count vectorizer.
+
+![image](https://user-images.githubusercontent.com/37560890/159539701-b1b3d8ec-6888-4eb4-808f-6cfa20e64ecf.png)
+
+2. Train , Test, Split.
+
+![image](https://user-images.githubusercontent.com/37560890/159539958-28436409-b8e7-4783-b504-d83dc8bc09d6.png)
 
