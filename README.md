@@ -33,4 +33,16 @@
 
 ![image](https://user-images.githubusercontent.com/37560890/159531787-0a2cdc1b-5fd1-4f98-a735-a9a3d6bd57ab.png)
 
+### [ Step - II ] . Exploratory Data Analysis
+
+1. Value counts for the target variable , plot the pie chart.
+
+![image](https://user-images.githubusercontent.com/37560890/159532131-9d079760-4470-4376-a0ab-93726c7d08b3.png)
+
+2. Import the nltk pkg. 
+
+![image](https://user-images.githubusercontent.com/37560890/159532475-a14c145d-a3da-4c60-8362-e34bf2628e15.png)
+
+
+
 
