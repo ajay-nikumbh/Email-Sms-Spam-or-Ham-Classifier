@@ -73,5 +73,35 @@
 
 ![image](https://user-images.githubusercontent.com/37560890/159536276-7e5b9de6-0cb5-48ab-b625-dfedc83fae31.png)
 
+2. Apply on our dataset.
+
+![image](https://user-images.githubusercontent.com/37560890/159536881-c5f13d43-cf60-4876-bf24-7f80665d1843.png)
+
+3. Install the word cloud.
+
+![image](https://user-images.githubusercontent.com/37560890/159537020-657b4792-961d-4ea8-aad6-3ef78c38592a.png)
+
+4. Make the word cloud for spam msg's.
+
+![image](https://user-images.githubusercontent.com/37560890/159537146-96c75c52-b65e-4962-b15e-317e4a880568.png)
+
+![image](https://user-images.githubusercontent.com/37560890/159537244-5abd7ba1-c690-4f76-aec5-6c959fa43c28.png)
+
+5. Make word cloud for ham msg's.
+
+![image](https://user-images.githubusercontent.com/37560890/159537392-1c4747d4-395f-4aed-87f2-0565a2e69c5f.png)
+
+![image](https://user-images.githubusercontent.com/37560890/159537473-91ed1a17-f022-4563-862b-71533353cf9c.png)
+
+6. Top 30 word's in spam msg's.
+
+![image](https://user-images.githubusercontent.com/37560890/159537586-df8f4950-9798-4783-a35b-2f24a01e474a.png)
+
+![image](https://user-images.githubusercontent.com/37560890/159537712-3fccb5ac-4c6c-419e-9a8f-0d2e8c56cbd8.png)
+
+
+7. Top 30 word's in ham msg's.
+
+![image](https://user-images.githubusercontent.com/37560890/159537842-74e3ff28-4736-44a9-8e54-3a3524b1d712.png)
 
 
