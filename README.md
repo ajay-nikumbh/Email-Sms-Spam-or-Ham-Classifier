@@ -67,6 +67,11 @@
 
 ### [ Step - III ] . Text Preprocessing
 
-1. 
+1. Text preprocessing.
+
+![image](https://user-images.githubusercontent.com/37560890/159536111-847ae4c9-915f-4a22-b036-51b6734dacc4.png)
+
+![image](https://user-images.githubusercontent.com/37560890/159536276-7e5b9de6-0cb5-48ab-b625-dfedc83fae31.png)
+
 
 
