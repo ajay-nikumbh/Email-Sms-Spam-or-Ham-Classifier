@@ -116,3 +116,20 @@
 
 ![image](https://user-images.githubusercontent.com/37560890/159539958-28436409-b8e7-4783-b504-d83dc8bc09d6.png)
 
+3. Import 3 models
+
+![image](https://user-images.githubusercontent.com/37560890/160250052-fb10f023-1f72-4f1e-bf9f-af2774960073.png)
+
+4. Test for Multinomial NB
+
+![image](https://user-images.githubusercontent.com/37560890/160250083-10470ca0-be5a-48de-9b89-4c328fe0d1c7.png)
+
+5. Test for Binomial NB
+
+![image](https://user-images.githubusercontent.com/37560890/160250105-2507200b-22d4-4ea6-ad85-09c79eeea35d.png)
+
+### [Step - V] Model deployment
+
+1. Import pickle
+
+![image](https://user-images.githubusercontent.com/37560890/160250246-71871335-125a-41bb-9461-ae52758de96b.png)
